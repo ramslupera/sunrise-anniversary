@@ -34,8 +34,8 @@ window.SPC_CONFIG = {
   // Sponsor carousel. Put each logo file next to index.html and list it here.
   // Leave "file" empty to show the name as text until the logo is uploaded.
   SPONSORS: [
-    { name: "Bethany Cabin", file: "" },
-    { name: "Nixx Lounge", file: "" },
+    { name: "Bethany Cabin", file: "sp-bethany-cabin.png" },
+    { name: "Nixx Lounge", file: "sp-nixx-lounge.png" },
     { name: "THPro Media", file: "sp-thpro-media.png" },
     { name: "iLoveWoof Veterinary Clinic", file: "sp-ilovewoof.png" },
     { name: "Vole", file: "sp-vole.png" },
@@ -44,7 +44,7 @@ window.SPC_CONFIG = {
     { name: "Mizu Maccha + Coffee", file: "sp-mizu.png" },
     { name: "Lette's OlShop", file: "sp-lettes-olshop.png" },
     { name: "IT Mom Bakes", file: "sp-it-mom-bakes.png" },
-    { name: "Ember Neighborhood Cafe", file: "" },
+    { name: "Ember Neighborhood Cafe", file: "sp-ember.png" },
     { name: "The Pickle Cave", file: "sp-pickle-cave.png" },
     { name: "Pickleball Central PH", file: "sp-pickleball-central.png" },
     { name: "Kamir", file: "sp-kamir.png" },
